@@ -1,0 +1,12 @@
+# Pasos para crear una pizza
+
+1. Precalentar el horno a 220°C.
+2. Preparar la masa (mezclar ingredientes y dejar reposar).
+3. Extender la masa en un círculo.
+4. Añadir salsa de tomate.
+5. Espolvorear queso mozzarella.
+6. Agregar ingredientes adicionales al gusto.
+7. Añadir un chorrito de aceite de oliva.
+8. Hornear por 12-15 minutos.
+9. Retirar, enfriar y cortar.
+10. Servir y disfrutar.
